@@ -5,4 +5,29 @@
     max-width: 100%;
     text-decoration: none;
     scroll-behavior: smooth;
+    background-color: #b0b0b0;
+  }
+
+section{
+  min-height: 100vh;
+}
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 1rem;
+  }
+
+  .wrapper h2{
+    font-size: 4rem;
+    text-transform: capitalize;
+    font-weight: 900;
+    padding: 2rem 0;
+  }
+
+  .div-wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
   }
