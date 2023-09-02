@@ -1,4 +1,6 @@
-This is a starter template for the [Next.js](https://nextjs.org/) Lazy Loading Image Like a Pro article.
+# Lazy Loading Images Like a Pro in Next.js
+
+### This is a starter template for the [Next.js](https://nextjs.org/) Lazy Loading Image Like a Pro article.
 
 ## Getting Started
 
@@ -24,6 +26,7 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Lastly, follow the Next.js Image Lazy Loading tutorial here:
-[Lazy Loading Images Like a Pro in Next.js](https://ezedinirudaniel.hashnode.dev/)
+[Lazy Loading Images Like a Pro in Next.js](https://ezedinirudaniel.hashnode.dev/lazy-loading-images-like-a-pro-in-nextjs
+)
 
 
